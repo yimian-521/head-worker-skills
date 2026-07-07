@@ -1,4 +1,4 @@
-# GLOSSARY — sandbox-package-creator v3.0.0
+# GLOSSARY — head-worker-skills v3.4.1
 
 本文件解释 SKILL.md 中出现的核心术语。按章节顺序排列，便于对照阅读。
 
