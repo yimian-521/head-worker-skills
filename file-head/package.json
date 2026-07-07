@@ -1,0 +1,14 @@
+{
+    "name": "file-head",
+    "version": "0.1.0",
+    "description": "有头文件操作沙盒——五军+看书模式+HED按钮，零依赖",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "node test.js"
+    },
+    "keywords": ["file", "head", "operit", "sandbox"],
+    "author": "免免 & 望安",
+    "license": "ISC",
+    "dependencies": {}
+}

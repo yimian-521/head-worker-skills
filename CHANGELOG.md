@@ -1,5 +1,11 @@
 # CHANGELOG — Operit 自制 Skills
-> **当前最新版本：v3.0.0 (2026-07-01)** — sandbox-package-creator ~1057行，新增§9 Node.js Skill vs QuickJS沙盒包（本质区别+选型+v4.0→v4.4.0踩坑实录），§7.6扩展硬编码清零五类暗雷实战教训。v1.0→v3.0全版本谱系见下方。
+> **当前最新版本：v3.4.1 (2026-07-07)** — sandbox-package-creator，新增file-head五军文件操作沙盒
+
+## v3.4.1 (2026-07-07)
+### sandbox-package-creator — 合并file-head文件操作沙盒
+
+- **新增 `file-head/`**：Node.js零依赖文件操作沙盒——五军（SCOUT侦察+STRATEGIST军师+BURST爆裂+GUARD哨卫+LIGHTNING闪电），三种看书模式（全量/分页/索引），102M文件翻页微秒级
+- SKILL.md version → 3.4.1，description 加入 file-head 触发提示
 
 ## v3.0.0 (2026-07-01)
 ### sandbox-package-creator — Node.js Skill专章 + 硬编码清零实战（~1000行→~1057行）
