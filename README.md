@@ -1,6 +1,6 @@
-# head-worker-skills v3.4.1
+# head-worker-skills v3.5.0
 
-> 有头式工人技能——不是工具包，是让工具变有头的方法。
+> 免免蒸馏：五步审码+四原则架构。mianmian-review元Skill。
 
 ---
 
@@ -18,6 +18,9 @@ node -e "const fh=require('./file-head'); ..."  # API模式
 ```
 
 ---
+
+### 🔍 mianmian-review/ — 免免五件套审码元Skill
+符号解析→前提检查→数据流→控制流+值域→身份检查。全语言通用，kotlin-head全版本17/17命中验证。架构四原则：手搓节点/探针用id/适配层/组件不塌缩。
 
 ## 扩展（需要时再看）
 
