@@ -1,5 +1,10 @@
 # CHANGELOG — Operit 自制 Skills
-> **当前最新版本：v3.5.0 (2026-07-07)** — sandbox-package-creator，新增file-head五军文件操作沙盒
+> **当前最新版本：v3.5.1 (2026-07-07)** — sandbox-package-creator，新增file-head五军文件操作沙盒
+## v3.5.1 (2026-07-09) — 第七步：传染性硬编码+系统沉默
+### mianmian-review 扩展
+- 第六步：传染性检查——改了default_num引擎上限没改、格式变了阈值没跟
+- 第七步：系统沉默——不是某一个catch空了，是整条错误链多个组件共用不出声
+- 来源：Search Vault v4.4.0硬编码松绑 + 綦桐网关无前缀静默链
 
 ## v3.5.0 (2026-07-09) — 免免蒸馏：五步审码+四原则架构
 ### sandbox-package-creator — Skill 3.5 + mianmian-review 元Skill
