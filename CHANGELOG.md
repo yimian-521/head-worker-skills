@@ -1,6 +1,12 @@
 # CHANGELOG — Operit 自制 Skills
-> **当前最新版本：v3.4.1 (2026-07-07)** — sandbox-package-creator，新增file-head五军文件操作沙盒
+> **当前最新版本：v3.5.0 (2026-07-07)** — sandbox-package-creator，新增file-head五军文件操作沙盒
 
+## v3.5.0 (2026-07-09) — 免免蒸馏：五步审码+四原则架构
+### sandbox-package-creator — Skill 3.5 + mianmian-review 元Skill
+- **新增 mianmian-review/**：免免五件套审码元Skill——符号解析→前提检查→数据流→控制流+值域→身份检查。全语言通用（Kotlin/Python/JS/Rust/Go），kotlin-head v0.5.2→v0.12.8 全版本17/17命中验证
+- **新增 operit-meta-guide/**：四个元Skill→五个，加入 mianmian-review
+- **新增 skill-creator/**：v3.5.0 含免免蒸馏——审码五步+架构四原则（手搓节点/探针用id不用名字/适配层/组件不塌缩）
+- SKILL.md version → 3.5.0
 ## v3.4.1 (2026-07-07)
 ### sandbox-package-creator — 合并file-head文件操作沙盒
 
