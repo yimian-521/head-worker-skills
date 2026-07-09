@@ -124,6 +124,7 @@ node -e "const fh=require('./file-head'); ..."  # API模式
 | [v3.1.0](./releases/v3.1.0/operit-skills-v3.1.0.tar.gz) | ~460 | 编译器/解析器类 Bug预判+4条 + 性能准则+6条（kotlin-head 实战反哺） |
 | [v3.3.0](./SKILL.md) | ~1080 | Skill 3.2「看位置不分类」+ Skill 3.3「看交叉不看标签」— Bug预判 59→61条 |
 | [v3.4.0](./SKILL.md) | ~1140 | Skill 3.4「进程系统实战教训」— kotlin-head v0.11.x六条通用教训 |
+| [v3.4.1](./SKILL.md) | ~1160 | 合并file-head五军文件操作沙盒 + CHANGELOG |
 | [v3.5.0](./SKILL.md) | ~1200 | mianmian-review元Skill + operit-meta-guide更新 |
 | [v3.5.1](./SKILL.md) | ~1250 | 第六步传染性 + 第七步系统沉默（Search Vault v4.4.0实践） |
 | [v3.5.2](./SKILL.md) | ~1300 | 八步法正式命名 + 第八步硬限制分析 |
