@@ -1,4 +1,4 @@
-# head-worker-skills v3.5.1
+# head-worker-skills v3.5.2
 
 > 免免蒸馏：五步审码+四原则架构。mianmian-review元Skill。
 
